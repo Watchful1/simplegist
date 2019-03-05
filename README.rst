@@ -30,8 +30,8 @@ Download `here <https://github.com/softvar/simplegist/tarball/1.0.0>`_ and run `
 
 Generating Github API Access Token
 ----------------------------------
-Go to Github's Account settings > Applications
-``Create a new token`` and use it for making API requests instead of password
+Go to Github's Account settings > Developer settings > Personal access tokens
+``Generate new token`` and use it for making API requests instead of password
 
 Example Usage
 -------------
